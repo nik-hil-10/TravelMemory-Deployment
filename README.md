@@ -30,3 +30,11 @@ For frontend, you need to create `.env` file and put the following content (reme
 ```bash
 REACT_APP_BACKEND_URL=http://localhost:3001
 ```
+
+## Deployment Documentation 🚀
+
+Comprehensive documentation for deploying this application to AWS EC2 is available in the following files:
+
+-   **[Deployment Guide](DEPLOYMENT_GUIDE.md)**: Step-by-step instructions for server setup, Nginx, PM2, and Cloudflare.
+-   **[Architecture & Verification](ARCHITECTURE_AND_FR.md)**: Deployment architecture diagram and verification steps.
+-   **[MongoDB Setup](MONGODB_SETUP.md)**: Guide to setting up the MongoDB Atlas database.

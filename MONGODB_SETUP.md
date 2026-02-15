@@ -29,7 +29,7 @@ This guide covers getting your connection string and setting up the database for
     (I have constructed this using the correct format for Mongoose and your specific cluster address).
 
     ```env
-    MONGO_URI=mongodb+srv://admin:admin@cluster0.vrkxrs4.mongodb.net/travelmemory
+    MONGO_URI=mongodb+srv://<username>:<password>@cluster0.vrkxrs4.mongodb.net/travelmemory
     PORT=3000
     ```
 
